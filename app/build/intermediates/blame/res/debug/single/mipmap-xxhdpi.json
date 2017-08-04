@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\email_launch.png",
+        "source": "F:\\VideoPlayer1\\app\\src\\main\\res\\mipmap-xxhdpi\\email_launch.png"
+    },
+    {
+        "merged": "F:\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\logo12.png",
+        "source": "F:\\VideoPlayer1\\app\\src\\main\\res\\mipmap-xxhdpi\\logo12.png"
+    },
+    {
+        "merged": "F:\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\facebook.png",
+        "source": "F:\\VideoPlayer1\\app\\src\\main\\res\\mipmap-xxhdpi\\facebook.png"
+    },
+    {
+        "merged": "F:\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\aboutus.png",
+        "source": "F:\\VideoPlayer1\\app\\src\\main\\res\\mipmap-xxhdpi\\aboutus.png"
+    },
+    {
+        "merged": "F:\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "F:\\VideoPlayer1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\envelope.png",
+        "source": "F:\\VideoPlayer1\\app\\src\\main\\res\\mipmap-xxhdpi\\envelope.png"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "F:\\VideoPlayer1\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "F:\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view.xml",
+        "source": "F:\\VideoPlayer1\\app\\src\\main\\res\\layout\\activity_view.xml"
+    },
+    {
+        "merged": "F:\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_downloader.xml",
+        "source": "F:\\VideoPlayer1\\app\\src\\main\\res\\layout\\activity_downloader.xml"
+    },
+    {
+        "merged": "F:\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\VideoPlayer1\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about_us.xml",
+        "source": "F:\\VideoPlayer1\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "F:\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_you_tube.xml",
+        "source": "F:\\VideoPlayer1\\app\\src\\main\\res\\layout\\activity_you_tube.xml"
+    },
+    {
+        "merged": "F:\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\VideoPlayer1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\VideoPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "F:\\VideoPlayer1\\app\\src\\main\\res\\layout\\listitem.xml"
+    }
+]

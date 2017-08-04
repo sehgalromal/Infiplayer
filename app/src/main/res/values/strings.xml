@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">INFI Player</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="About_Us">About Us</string>
+    <string name="download">DownLoad</string>
+    <string name="title_activity_you_tube">YouTube</string>
+    <string name="find">Search</string>
+    <string name="title_activity_downloader">Downloader</string>
+    <string name="mode">NIGHT MODE\t\t\t\t\t\t\t\t\t\t\t</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="mail_anubhav">gupta.anubhav25\n\t\t@gmail.com</string>
+    <string name="mail_romal">sehgalromal\n@gmail.com</string>
+    <string name="name">Romal</string>
+
+</resources>
